@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "630067059356",
+    "firebase_url": "https://flas-chat-66572.firebaseio.com",
+    "project_id": "flas-chat-66572",
+    "storage_bucket": "flas-chat-66572.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630067059356:android:7a8b9811a313c6853cab59",
+        "android_client_info": {
+          "package_name": "tech.esols.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630067059356-juojr1d67b75d3f6aljnsd43cqe82oc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz2IqBX79Tecjput3yfN8PX38mY_jDJyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630067059356-juojr1d67b75d3f6aljnsd43cqe82oc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
